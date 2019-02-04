@@ -9,7 +9,7 @@ import java.net.URLConnection;
 
 import web2json.document.Document;
 
-//This is a connection class
+//This is a connection class.
 public class Connection {
 URL url;
 public Connection(String url) throws MalformedURLException{
